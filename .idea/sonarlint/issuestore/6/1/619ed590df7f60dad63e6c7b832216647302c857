@@ -1,0 +1,28 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾¸¾Óşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Û·²üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËŞõŒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²§˜Ïıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘‰Ğæÿÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(äà°d
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥ïìûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ğœ€…
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(»íàîûÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(øÂ¼ğùÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ÿ–Ù¯şÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(€‰³¬
+A
+java:S30104"$Remove this assignment of "numero1".(ó¨¤ó8¨Ì›¥›0
+A
+java:S30105"$Remove this assignment of "numero2".(™ÏÊõ8˜ø›¥›0
+K
+java:S22094"5Change this instance-reference to a static reference.(ó¨¤ó
+R
+java:S22095"5Change this instance-reference to a static reference.(™ÏÊõ8¯Ì›¥›0
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(øø»úÿÿÿÿ
+W
+java:S2209:"5Change this instance-reference to a static reference.(øø»úÿÿÿÿ8¥ø›¥›0
+W
+java:S2209:"5Change this instance-reference to a static reference.(øø»úÿÿÿÿ8©œ¥›0
+W
+java:S2209:"5Change this instance-reference to a static reference.(øø»úÿÿÿÿ8úìœ¥›0
