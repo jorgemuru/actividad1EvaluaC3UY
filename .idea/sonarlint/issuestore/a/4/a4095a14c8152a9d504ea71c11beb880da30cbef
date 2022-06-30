@@ -1,0 +1,26 @@
+
+ƒ
+java:S1192"hDefine a constant instead of duplicating this literal "Â¡Â¡Â¡ERROR--DEBE INGRESAR UN NUMERO!!!" 3 times.(‰‡€­ùÿÿÿÿ
+^
+java:S21847"HCast one of the operands of this multiplication operation to a "double".(Ù«Ë
+]
+java:S1854"@Remove this useless assignment to local variable "sueldoLikido".(ó¨ÒĞ8÷Ì™ˆ›0
+]
+java:S1854"@Remove this useless assignment to local variable "bonificaArea".(ÎÔ¹Ê8÷Ì™ˆ›0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ùô»×úÿÿÿÿ8‰Í™ˆ›0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µƒóÀ8ŒÍ™ˆ›0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ËŞõŒ8Í™ˆ›0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ïÒ·üüÿÿÿÿ8Í™ˆ›0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İ™à˜üÿÿÿÿ8›Ñ™ˆ›0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰‡€­ùÿÿÿÿ8ˆÒ™ˆ›0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(—¨Á¾üÿÿÿÿ8ŠÒ™ˆ›0
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(‰‡€­ùÿÿÿÿ8…Ó™ˆ›0
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(¾¢¹ıÿÿÿÿ8ŠÓ™ˆ›0
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(‰‡€­ùÿÿÿÿ8Ó™ˆ›0
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(™‡ª¹ùÿÿÿÿ8–Ó™ˆ›0
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(§Ñ·8˜Ó™ˆ›0
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(Ùëò8šÓ™ˆ›0
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(™‡ª¹ùÿÿÿÿ8›Ó™ˆ›0
+T	java:S106A"9Replace this use of System.out or System.err by a logger.(ºÜÍG8œÓ™ˆ›0
+Q
+java:S1128"4Remove this unused import 'java.text.DecimalFormat'.(¤°Ó˜8¢Ó™ˆ›0
